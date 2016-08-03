@@ -12,12 +12,13 @@ npm start
 ### Usage
 The mock response is exposed to 127.0.0.1:9873
 
-### Example
-#### Lightweight registration
 
+### Example
 ##### Request
 Endpoint
-```http://127.0.0.1/Community/Member/New```
+```
+http://127.0.0.1/Community/Member/New
+```
 
 HTTP Headers
 ```
