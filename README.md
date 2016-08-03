@@ -1,6 +1,7 @@
 ### Install
 ```bash
-git clone git@github.com:vbence86/mockbabelrest.git
+git clone git@github.com:mr-beerkiss/mockbabelrest.git
+cd mockbabelrest
 npm install
 ```
 
