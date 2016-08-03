@@ -10,7 +10,7 @@ npm start
 ```
 
 ### Usage
-The mock response is exposed to 127.0.0.1:9873
+The mock response is exposed to **localhost:9873**
 
 
 ### Example
