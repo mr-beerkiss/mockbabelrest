@@ -10,8 +10,10 @@ npm start
 ```
 
 ### Usage
-The mock response is exposed to **localhost:9873**
-
+- run the mock service which is exposed to **localhost:9873**
+- Divert the traffic to this service in **smash-website**: 
+    - open ```smash-website/eagle-webapp/env-configuration/localhost.conf```
+    - set ```babelRESTEndpoint=http://localhost:9873```
 
 ### Example
 ##### Request
